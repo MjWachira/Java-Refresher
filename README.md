@@ -77,9 +77,3 @@ gradle run
 - Maven or Gradle installed
 - IDE (e.g. IntelliJ IDEA, Eclipse, VS Code)
 
-## 📈 Next Steps (Optional Advanced Topics)
-- Unit Testing with JUnit 5
-- GUI with JavaFX
-- Spring Boot for building APIs and web applications
-- JDBC for database access
-- REST Clients (e.g., HttpClient)

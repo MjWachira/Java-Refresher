@@ -1,6 +1,6 @@
 # 📚 Java Refresher Course – From Basics to Advanced
 
-This repository contains a structured Java learning path designed as a full refresher course, ideal for developers with experience in other languages (like .NET) who want to become proficient in Java.
+This repository contains a structured Java learning path designed as a full refresher course, ideal for developers with experience in other languages (like .NET) who want to become proficient in Java
 
 ## 🗂 Project Structure
 
